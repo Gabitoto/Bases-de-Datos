@@ -214,9 +214,6 @@
         <mxCell id="FHarEw_1w8gjIPrUUaQ0-32" value="&lt;u&gt;id_sample&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="470" y="890" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FHarEw_1w8gjIPrUUaQ0-33" value="id_sample" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="80" y="960" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="FHarEw_1w8gjIPrUUaQ0-40" value="observations" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="570" y="890" width="80" height="40" as="geometry" />
         </mxCell>
@@ -251,12 +248,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="940" y="970" as="sourcePoint" />
             <mxPoint x="980" y="970" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FHarEw_1w8gjIPrUUaQ0-53" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FHarEw_1w8gjIPrUUaQ0-33" target="2UJ9F-yyZZV8TtGCsO7B-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="119.68" y="1010" as="sourcePoint" />
-            <mxPoint x="160" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FHarEw_1w8gjIPrUUaQ0-56" value="date_analisis" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
