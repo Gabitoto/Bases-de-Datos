@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.9">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1544" dy="1374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1860" dy="1499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -561,7 +561,7 @@
           <mxGeometry x="640" y="1080" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ut1FgxLM1IVdskiY2yRH-8" value="&lt;u&gt;id_especia&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="840" y="1160" width="80" height="40" as="geometry" />
+          <mxGeometry x="840" y="1140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ut1FgxLM1IVdskiY2yRH-9" value="nombres" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="930" y="1140" width="80" height="40" as="geometry" />
@@ -572,7 +572,7 @@
         <mxCell id="ut1FgxLM1IVdskiY2yRH-11" value="contacto" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="930" y="1030" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ut1FgxLM1IVdskiY2yRH-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ut1FgxLM1IVdskiY2yRH-8" target="ut1FgxLM1IVdskiY2yRH-4" edge="1">
+        <mxCell id="ut1FgxLM1IVdskiY2yRH-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ut1FgxLM1IVdskiY2yRH-8" target="ut1FgxLM1IVdskiY2yRH-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="1160" as="sourcePoint" />
             <mxPoint x="810" y="1130" as="targetPoint" />
