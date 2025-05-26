@@ -372,10 +372,10 @@
             <mxPoint x="936" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ut1FgxLM1IVdskiY2yRH-4" value="especialista" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="ut1FgxLM1IVdskiY2yRH-4" value="analista" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="840" y="1080" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ut1FgxLM1IVdskiY2yRH-6" value="id_especialista" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="ut1FgxLM1IVdskiY2yRH-6" value="id_analista" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="470" y="790" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ut1FgxLM1IVdskiY2yRH-7" value="tomo_muest" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
