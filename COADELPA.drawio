@@ -97,7 +97,7 @@
           <mxGeometry x="80" y="740" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FHarEw_1w8gjIPrUUaQ0-67" value="id_apiario" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
-          <mxGeometry x="20" y="820" width="80" height="40" as="geometry" />
+          <mxGeometry x="30" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FHarEw_1w8gjIPrUUaQ0-68" value="id_apicultor" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry y="680" width="80" height="40" as="geometry" />
@@ -996,7 +996,7 @@
         <mxCell id="25K-4Gzc3a5rJdkNa9CR-238" value="latitud" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="140" y="800" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="25K-4Gzc3a5rJdkNa9CR-239" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="25K-4Gzc3a5rJdkNa9CR-238" target="FHarEw_1w8gjIPrUUaQ0-66" edge="1">
+        <mxCell id="25K-4Gzc3a5rJdkNa9CR-239" value="" style="endArrow=none;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="25K-4Gzc3a5rJdkNa9CR-238" target="FHarEw_1w8gjIPrUUaQ0-66" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="237" y="816" as="sourcePoint" />
             <mxPoint x="170" y="790" as="targetPoint" />
